@@ -23,7 +23,6 @@ This readme contains sections that summarize the work completed for a time-serie
 
 -------
 
-<details><summary>Abstract</summary>
     
 # Abstract
 
@@ -43,11 +42,7 @@ The region that was investigated is highlighted in blue in the map below. This r
 
 Best is defined as the **highest Return on Investment (ROI) after a 5-year period**. The 5yr period was chosen as an appropriate amount of time for a rural-area real-estate investment. This analysis only considers property value (no assessment was made pertaining to potential income generated from the property in the form of rent).
 
-</details>
-
 -------
-
-<details><summary>Results Summary & Recommendation</summary>
 
 ## Results Summary
 
@@ -61,14 +56,14 @@ The highest forecasted 5-yr ROI zipcodes are shown below in blue while the lowes
 
 The confidence intervals on the forecasted data are quite large. The **average sale price in the region as of April 2018 was \\$221K forecasted to \\$264K with a confidence interval ranging from \\$125K-\\$404K.** This represents a **5-yr ROI of 19.4%** with best and worse cases being +83% and -43% respectively.
 
-On a state-by-state basis, Maryland came out ahead of both West Virginia and Virginia. Virginia is projected to perform the worst in the region. The zipcodes that have the highest forecasted ROI are mostly clustered along the highway 81 corridor. Highway 81 is the main thoroughfare in the area and easy access to 81 may account for better growth rates. Most regional industry is also located just off of 81. 
+On a state-by-state basis, Maryland came out ahead of both West Virginia and Virginia. Virginia is projected to perform the worst in the region. The zipcodes that have the highest forecasted ROI are mostly clustered along the highway 81 corridor. Highway 81 is the main thoroughfare in the area and easy access to 81 may account for better growth rates. Most regional industry is also located just off of 81.
 
-### Recommendation
+-------
+
+## Recommendation
 These prospective returns are not very exciting for a real-estate investment company. The best forecast represents a **compound annual growth rate of 5.4%**. Compare this to an investment in one of the many Total Stock indices which are projected to produce compound annual growth rates of over 7% over the next 5-years (and those investments do not require payment of closing costs or property management overhead).
 
 I would not recommend investing in the region for the purposes of maximizing 5-year return as there are other locations in the US which will provide better projections. However, it is important to note that while expected returns are not as high, West Virginia is one of the few states where many regions were unaffected by the 2007 housing market crash. The addendum contains a graphic showing West Virginia housing prices summarized by metropolitan area. There are several areas which were immune to the greater economic forces of the time. In fact, **Fairmont, WV is forecasted to have a 5-yr ROI of 21.5% and it went completely unaffected by the 2007 housing crash**. Depending on an investment firm's needs, this may be a desireable investment if a real-estate bubble is detected.
-
-</details>
 
 -------
 
