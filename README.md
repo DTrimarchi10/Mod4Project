@@ -1,8 +1,6 @@
-# Module 4 -  Final Project
+# Module 4 -  Project
 
-* Student name: **Dennis Trimarchi**
-* Student pace: **Full time**
-* Instructor name: **Rafael Carrasco**
+* **Dennis Trimarchi**
 * Blog post URL: [https://medium.com/@dtuk81/predicting-average-home-prices-using-time-series-analysis-seasonal-arima-modeling-bcd14990d3f3?sk=3bf3000b26d67a5a5324a12aabee136c]
 
 
